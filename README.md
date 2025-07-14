@@ -11,3 +11,11 @@ Key features
 * **Optional auto‑classification** – supply regex ➜ (Format, Extent) rules and the script pre‑fills those columns.  
 * Pure Python 3; only external dependency is **`openpyxl`**.
 
+### Project background
+
+This utility was created on my own initiative while working as a **Digital
+Collections Student Assistant** at the CSUN Library.  The library’s workflow
+did not include an automated inventory step, so I built this script to
+eliminate the manual task of copying hundreds of TIFF filenames into Excel and
+adding metadata drop‑downs.  It is now shared here as an open‑source tool that
+other archives can adapt.
